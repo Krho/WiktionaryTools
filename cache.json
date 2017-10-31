@@ -1,101 +1,1330 @@
 {
+  "thesaurus": {
+    "femme": [
+      "nourrisson",
+      "enfant",
+      "adolescente",
+      "fille",
+      "jeune femme",
+      "femme",
+      "vieille femme",
+      "parturiente",
+      "dame",
+      "madame",
+      "demoiselle",
+      "mademoiselle",
+      "maman",
+      "concubine",
+      "veuve",
+      "bourgeoise",
+      "superwoman",
+      "femme au foyer",
+      "suffragette",
+      "souveraine",
+      "beau sexe",
+      "cougar",
+      "femme fatale",
+      "femme objet",
+      "instinct maternel",
+      "lolita",
+      "MILF",
+      "muse",
+      "sexe faible",
+      "cassandre",
+      "messaline",
+      "allumeuse",
+      "avion de chasse",
+      "blonde",
+      "bobonne",
+      "bombasse",
+      "bombe",
+      "bombe sexuelle",
+      "bonne amie",
+      "bonne femme",
+      "boudin",
+      "cacopyge",
+      "callipyge",
+      "coureuse",
+      "dragon",
+      "gonzesse",
+      "gorgone",
+      "harpie",
+      "Madame Michu",
+      "mie|ma mie",
+      "mannequin",
+      "maritorne",
+      "matrone",
+      "meuf",
+      "mignonne",
+      "momager",
+      "nana",
+      "nympho",
+      "petite amie",
+      "salope",
+      "thon",
+      "typesse",
+      "vamp",
+      "veuve joyeuse",
+      "vieille fille",
+      "vieille peau",
+      "virago",
+      "clitoris",
+      "cyprine",
+      "glande mammaire",
+      "matrice",
+      "menstrues",
+      "ovaire",
+      "oviducte",
+      "ovocyte",
+      "ovule",
+      "point G",
+      "salpingite",
+      "sein",
+      "trompes",
+      "vagin",
+      "vulve",
+      "mariage",
+      "nom marital",
+      "nom de jeune fille",
+      "contrat de mariage",
+      "divorce",
+      "pension alimentaire",
+      "droit de garde",
+      "veuvage",
+      "violence",
+      "prostitution",
+      "viol",
+      "candidate",
+      "mairesse",
+      "ministre",
+      "reine",
+      "bourgmestre",
+      "suffragette",
+      "adjudante",
+      "colonelle",
+      "lieutenante",
+      "abbesse",
+      "bigote",
+      "chanoinesse",
+      "clarisse",
+      "diaconesse",
+      "imam",
+      "moniale",
+      "visitandine",
+      "nonne",
+      "pasteure",
+      "pastoresse",
+      "prendre le voile",
+      "pythie",
+      "rabbine",
+      "religieuse",
+      "sainte",
+      "vestale",
+      "visitandine",
+      "amazone",
+      "harpie",
+      "ondine",
+      "Pandore",
+      "Parque",
+      "stryge",
+      "succube",
+      "valkyrie",
+      "amour",
+      "amante",
+      "jalousie",
+      "rapport sexuel",
+      "orientation sexuelle",
+      "lesbianisme",
+      "lesbienne",
+      "gouine",
+      "goudou",
+      "comportement sexuel",
+      "plaisir",
+      "orgasme",
+      "masturbation",
+      "nymphomanie",
+      "contraceptif",
+      "abstinence",
+      "capote",
+      "DIU",
+      "pilule",
+      "bas",
+      "bikini",
+      "burka",
+      "burqa",
+      "burkini",
+      "bustier",
+      "chemisier",
+      "collant",
+      "corset",
+      "coupe menstruelle",
+      "cup",
+      "fond de teint",
+      "froufrou",
+      "gloss",
+      "jupe",
+      "maquillage",
+      "mascara",
+      "microkini",
+      "monokini",
+      "mouche",
+      "nichette",
+      "niqab",
+      "parfum",
+      "poudrier",
+      "rimmel",
+      "soutif",
+      "string",
+      "talon aiguille",
+      "tampax",
+      "tampon",
+      "tanga",
+      "tankini",
+      "tchador",
+      "topless",
+      "vinaigrette",
+      "accouchement",
+      "allaitement",
+      "avortement",
+      "contraception",
+      "contragestion",
+      "enfantement",
+      "gestation",
+      "ovulation",
+      "accoucher",
+      "allaiter",
+      "avorter",
+      "enfanter",
+      "ovuler",
+      "transitionner",
+      "maternel",
+      "matrimonial",
+      "vieille",
+      "gynocide",
+      "uxoricide",
+      "pleurer comme une Madeleine"
+    ]
+  },
   "words": {
+    "ovule": [
+      "Jean Rostand"
+    ],
+    "instinct maternel": [],
+    "clarisse": [],
+    "prostitution": [
+      "Jean Marestan"
+    ],
+    "poudrier": [],
+    "bonne amie": [],
+    "matrimonial": [],
+    "gouine": [],
+    "abbesse": [],
+    "burqa": [],
+    "mie|ma mie": [
+      "Charles Deulin",
+      "Charles Deulin",
+      "Scarron",
+      "Richelet",
+      "Marcel Proust"
+    ],
+    "vamp": [],
+    "femme": [],
+    "enfantement": [
+      "Arthur Schopenhauer"
+    ],
+    "superwoman": [],
+    "femme au foyer": [],
+    "gorgone": [
+      "Victor Hugo"
+    ],
+    "cup": [],
+    "amante": [],
+    "maman": [
+      "Louis Pergaud",
+      "Yanny Hureaux"
+    ],
+    "ondine": [],
+    "capote": [
+      "Octave Mirbeau",
+      "Jean Giraudoux",
+      "Charles Le Goffic"
+    ],
+    "cougar": [
+      "Jean Amila"
+    ],
+    "point G": [],
+    "sainte": [
+      "Roger Judrin",
+      "Louis Aragon"
+    ],
+    "coureuse": [],
+    "maritorne": [
+      "Anatole France",
+      "Knut Hamsun"
+    ],
+    "rabbine": [
+      "Alfred Kazin"
+    ],
+    "Parque": [],
+    "microkini": [],
+    "string": [
+      "Pierre Schoendoerffer"
+    ],
+    "ovaire": [],
+    "matrice": [],
+    "gestation": [],
+    "jupe": [
+      "Louis Pergaud",
+      "Angelo Rinaldi"
+    ],
+    "lesbianisme": [],
+    "lesbienne": [],
+    "cyprine": [
+      "Monique Wittig"
+    ],
+    "orientation sexuelle": [],
+    "bombe": [
+      "Bernard le Bouyer de Fontenelle",
+      "Voltaire",
+      "Montesquieu",
+      "Montesquieu",
+      "Louis de Rouvroy",
+      "Louis de Rouvroy"
+    ],
+    "menstrues": [],
+    "ovocyte": [],
+    "bas": [
+      "Vercors",
+      "Octave Mirbeau",
+      "Alexandre Dumas fils"
+    ],
+    "accoucher": [],
+    "visitandine": [
+      "Jules Michelet",
+      "Victor Hugo"
+    ],
+    "allumeuse": [
+      "George Sand",
+      "Chad Harbach"
+    ],
+    "mascara": [],
+    "transitionner": [],
+    "bobonne": [],
+    "vagin": [],
+    "corset": [],
+    "force": [
+      "Louis Pergaud",
+      "Augustin Thierry",
+      "Edmond Nivoit",
+      "Armando Uribe",
+      "Joseph Kessel",
+      "Gustave Fraipont",
+      "Armando Uribe",
+      "Octave Mirbeau",
+      "Georges Sorel",
+      "Jean de La Fontaine"
+    ],
+    "parfum": [],
+    "vulve": [],
+    "veuvage": [],
+    "vieille peau": [],
+    "harpie": [],
+    "salpingite": [],
+    "mariage": [
+      "Comte de Sanois",
+      "Isabelle Eberhardt",
+      "Georges Sorel"
+    ],
+    "reine": [
+      "Maurice Druon"
+    ],
+    "chemisier": [],
+    "contrat de mariage": [
+      "Gabriel Monod"
+    ],
+    "nana": [],
+    "matrone": [],
+    "vieille femme": [],
+    "tampax": [],
+    "maternel": [],
+    "contraceptif": [],
+    "adjudante": [],
+    "burka": [],
+    "viol": [],
+    "pastoresse": [],
+    "ovulation": [],
+    "froufrou": [],
+    "tchador": [],
+    "nymphomanie": [],
+    "glande mammaire": [],
+    "souveraine": [],
+    "bigote": [],
+    "beau sexe": [],
+    "vieille fille": [
+      "Maurice Bedel",
+      "Maurice Bedel"
+    ],
+    "bombasse": [],
+    "candidate": [],
+    "salope": [],
+    "adolescente": [],
+    "violence": [
+      "Louis Pergaud",
+      "Jean Monbourquette",
+      "Georges Sorel",
+      "Paul Nizan"
+    ],
+    "nom marital": [],
+    "madame": [],
+    "thon": [],
+    "succube": [],
+    "ministre": [
+      "Balzac",
+      "Joseph Caillaux",
+      "Daniel Schneidermann"
+    ],
+    "vestale": [],
+    "mademoiselle": [],
+    "gonzesse": [
+      "Jean Lorrain"
+    ],
+    "momager": [],
+    "moniale": [
+      "Jean Semal",
+      "Alain Corbin"
+    ],
+    "soutif": [
+      "Stupeflip"
+    ],
+    "bonne femme": [],
+    "pension alimentaire": [],
     "encyclop\u00e9die": [
       "Denis Diderot"
-    ], 
-    "force": [
-      "Louis Pergaud", 
-      "Augustin Thierry", 
-      "Edmond Nivoit", 
-      "Armando Uribe", 
-      "Joseph Kessel", 
-      "Gustave Fraipont", 
-      "Armando Uribe", 
-      "Octave Mirbeau", 
-      "Georges Sorel", 
-      "Jean de La Fontaine"
+    ],
+    "fond de teint": [],
+    "bourgmestre": [
+      "Charles Deulin",
+      "Adolf Hitler"
+    ],
+    "typesse": [],
+    "blonde": [
+      "Mark Haskell Smith",
+      "Robert Charlebois"
+    ],
+    "plaisir": [
+      "Blaise Pascal",
+      "Charles Deulin",
+      "Alain Gerbault"
+    ],
+    "lolita": [],
+    "tanga": [],
+    "allaiter": [],
+    "contraception": [],
+    "avortement": [],
+    "diaconesse": [],
+    "divorce": [],
+    "bourgeoise": [
+      "Louis Pergaud"
+    ],
+    "gloss": [],
+    "allaitement": [],
+    "mairesse": [],
+    "chanoinesse": [],
+    "veuve joyeuse": [],
+    "pasteure": [],
+    "comportement sexuel": [],
+    "cacopyge": [
+      "Jacques Decour"
+    ],
+    "dame": [
+      "Victor Hugo",
+      "Victor Hugo",
+      "Victor Hugo",
+      "Victor Hugo"
+    ],
+    "imam": [],
+    "tankini": [],
+    "pilule": [],
+    "clitoris": [
+      "Marquis de Sade",
+      "Guillaume Apollinaire"
+    ],
+    "vieille": [],
+    "muse": [],
+    "contragestion": [],
+    "gynocide": [],
+    "mannequin": [
+      "Paul Lafargue",
+      "Isabelle Alonso"
+    ],
+    "tampon": [],
+    "monokini": [],
+    "meuf": [],
+    "stryge": [],
+    "femme fatale": [],
+    "colonelle": [],
+    "ovuler": [],
+    "collant": [],
+    "valkyrie": [],
+    "nichette": [],
+    "abstinence": [
+      "Voltaire"
+    ],
+    "religieuse": [
+      "Augustin Thierry"
+    ],
+    "orgasme": [],
+    "parturiente": [],
+    "bikini": [
+      "Simone de Beauvoir"
+    ],
+    "nourrisson": [
+      "Alexandre Dumas"
+    ],
+    "demoiselle": [],
+    "pleurer comme une Madeleine": [],
+    "lieutenante": [],
+    "sein": [
+      "Georges Sorel"
+    ],
+    "enfant": [
+      "Octave Mirbeau",
+      "Alain Gerbault",
+      "Alain Gerbault"
+    ],
+    "prendre le voile": [],
+    "boudin": [
+      "Jean Ferniot"
+    ],
+    "enfanter": [
+      "Auguste Kerckhoffs",
+      "Maximilien de Robespierre",
+      "Benjamin De Casseres"
+    ],
+    "jalousie": [
+      "Georges Sorel",
+      "Louis Pergaud",
+      "Aloysius Bertrand",
+      "Alexandre Dumas"
+    ],
+    "suffragette": [],
+    "rapport sexuel": [],
+    "bombe sexuelle": [],
+    "avion de chasse": [
+      "Pierre Clostermann"
+    ],
+    "topless": [],
+    "nom de jeune fille": [],
+    "mouche": [
+      "Octave Mirbeau",
+      "Louis Pergaud",
+      "Michel Audiard"
+    ],
+    "DIU": [],
+    "amour": [
+      "Aloysius Bertrand",
+      "Alexandre Dumas fils",
+      "Isabelle Eberhardt",
+      "Georges Sorel",
+      "Denis de Rougemont",
+      "Marcel Proust",
+      "Comte de Sanois",
+      "Jean Giraudoux",
+      "Louis Pergaud",
+      "Stendhal",
+      "Paul Bourget",
+      "Jean Rostand",
+      "Aloysius Bertrand",
+      "Octave Mirbeau",
+      "Alain Corbin",
+      "Max Stirner",
+      "Charles Cros",
+      "Charles Baudelaire|Baudelaire",
+      "Jean le Bel",
+      "Blondel de Nesle"
+    ],
+    "jeune femme": [],
+    "cassandre": [],
+    "niqab": [],
+    "amazone": [
+      "Alexandre Dumas"
+    ],
+    "burkini": [],
+    "trompes": [],
+    "veuve": [
+      "Edgar Poe"
+    ],
+    "virago": [
+      "Aloysius|Bertrand"
+    ],
+    "fille": [
+      "Louis Pergaud",
+      "Louis Pergaud"
+    ],
+    "femme objet": [],
+    "Madame Michu": [],
+    "talon aiguille": [],
+    "oviducte": [],
+    "goudou": [
+      "Elula Perrin"
+    ],
+    "sexe faible": [],
+    "petite amie": [],
+    "MILF": [],
+    "pythie": [],
+    "Pandore": [],
+    "coupe menstruelle": [],
+    "bustier": [],
+    "uxoricide": [],
+    "maquillage": [],
+    "droit de garde": [],
+    "mignonne": [],
+    "messaline": [],
+    "nonne": [],
+    "avorter": [],
+    "nympho": [],
+    "dragon": [
+      "Dragon de Komodo",
+      "Louis Aragon",
+      "Jean Giraudoux",
+      "Henri Manceau"
+    ],
+    "callipyge": [
+      "Georges Brassens"
+    ],
+    "vinaigrette": [],
+    "accouchement": [],
+    "masturbation": [
+      "Jean Marestan"
+    ],
+    "rimmel": [],
+    "concubine": [
+      "Louis Pergaud"
     ]
-  }, 
+  },
   "authors": {
+    "Isabelle Alonso": {
+      "P27": "Q142",
+      "P21": "Q6581072",
+      "words": [
+        "mannequin"
+      ],
+      "P569": 1953
+    },
+    "Victor Hugo": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "dame",
+        "dame",
+        "dame",
+        "dame",
+        "gorgone",
+        "visitandine",
+        "visitandine"
+      ],
+      "P569": 1802
+    },
+    "Henri Manceau": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "dragon"
+      ],
+      "P569": 1907
+    },
+    "Blaise Pascal": {
+      "P27": "Q70972",
+      "P21": "Q6581097",
+      "words": [
+        "plaisir"
+      ],
+      "P569": 1623
+    },
+    "Louis de Rouvroy": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "bombe",
+        "bombe"
+      ],
+      "P569": 1675
+    },
+    "Aloysius Bertrand": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "amour",
+        "amour",
+        "jalousie"
+      ],
+      "P569": 1807
+    },
+    "Knut Hamsun": {
+      "P27": "Q20",
+      "P21": "Q6581097",
+      "words": [
+        "maritorne"
+      ],
+      "P569": 1859
+    },
+    "Maurice Druon": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "reine"
+      ],
+      "P569": 1918
+    },
+    "Maurice Bedel": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "vieille fille",
+        "vieille fille"
+      ],
+      "P569": 1883
+    },
+    "Mark Haskell Smith": {
+      "P27": "Q30",
+      "P21": "Q6581097",
+      "words": [
+        "blonde"
+      ],
+      "P569": 1957
+    },
+    "Louis Aragon": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "dragon",
+        "sainte"
+      ],
+      "P569": 1897
+    },
+    "Edgar Poe": {
+      "P27": "Q30",
+      "P21": "Q6581097",
+      "words": [
+        "veuve"
+      ],
+      "P569": 1809
+    },
+    "Joseph Caillaux": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "ministre"
+      ],
+      "P569": 1863
+    },
+    "Jean Semal": {
+      "words": [
+        "moniale"
+      ]
+    },
+    "Elula Perrin": {
+      "P27": "Q142",
+      "P21": "Q6581072",
+      "words": [
+        "goudou"
+      ],
+      "P569": 1929
+    },
+    "Montesquieu": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "bombe",
+        "bombe"
+      ],
+      "P569": 1689
+    },
+    "Blondel de Nesle": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "amour"
+      ],
+      "P569": 1150
+    },
+    "Isabelle Eberhardt": {
+      "P27": "Q39",
+      "P21": "Q6581072",
+      "words": [
+        "mariage",
+        "amour"
+      ],
+      "P569": 1877
+    },
+    "Paul Lafargue": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "mannequin"
+      ],
+      "P569": 1842
+    },
+    "Jean Rostand": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "ovule",
+        "amour"
+      ],
+      "P569": 1894
+    },
+    "Jules Michelet": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "visitandine",
+        "visitandine"
+      ],
+      "P569": 1798
+    },
+    "Alain Gerbault": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "enfant",
+        "enfant",
+        "plaisir"
+      ],
+      "P569": 1893
+    },
+    "Aloysius|Bertrand": {
+      "words": [
+        "virago"
+      ]
+    },
+    "Louis Pergaud": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "force",
+        "fille",
+        "fille",
+        "maman",
+        "concubine",
+        "bourgeoise",
+        "violence",
+        "amour",
+        "jalousie",
+        "jupe",
+        "mouche"
+      ],
+      "P569": 1882
+    },
+    "Pierre Schoendoerffer": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "string"
+      ],
+      "P569": 1928
+    },
+    "Augustin Thierry": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "force",
+        "religieuse"
+      ],
+      "P569": 1795
+    },
+    "Max Stirner": {
+      "P27": "Q183",
+      "P21": "Q6581097",
+      "words": [
+        "amour"
+      ],
+      "P569": 1806
+    },
+    "Daniel Schneidermann": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "ministre"
+      ],
+      "P569": 1958
+    },
+    "Chad Harbach": {
+      "P27": "Q30",
+      "P21": "Q6581097",
+      "words": [
+        "allumeuse"
+      ],
+      "P569": 1975
+    },
+    "Jean Marestan": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "prostitution",
+        "masturbation"
+      ],
+      "P569": 1874
+    },
+    "Jean Giraudoux": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "dragon",
+        "amour",
+        "capote"
+      ],
+      "P569": 1882
+    },
+    "Jean le Bel": {
+      "P21": "Q6581097",
+      "words": [
+        "amour"
+      ],
+      "P569": 1290
+    },
+    "Georges Brassens": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "callipyge"
+      ],
+      "P569": 1921
+    },
+    "Jean Ferniot": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "boudin"
+      ],
+      "P569": 1918
+    },
+    "Charles Deulin": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "mie|ma mie",
+        "mie|ma mie",
+        "bourgmestre",
+        "plaisir"
+      ],
+      "P569": 1827
+    },
+    "Dragon de Komodo": {
+      "words": [
+        "dragon"
+      ]
+    },
+    "Alexandre Dumas fils": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "amour",
+        "bas"
+      ],
+      "P569": 1824
+    },
+    "Vercors": {
+      "words": [
+        "bas"
+      ]
+    },
+    "Comte de Sanois": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "mariage",
+        "amour"
+      ],
+      "P569": 1723
+    },
+    "Gabriel Monod": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "contrat de mariage"
+      ],
+      "P569": 1844
+    },
+    "Gustave Fraipont": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "force"
+      ],
+      "P569": 1849
+    },
+    "Paul Bourget": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "amour"
+      ],
+      "P569": 1852
+    },
+    "Monique Wittig": {
+      "P27": "Q142",
+      "P21": "Q6581072",
+      "words": [
+        "cyprine"
+      ],
+      "P569": 1935
+    },
+    "Anatole France": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "maritorne"
+      ],
+      "P569": 1844
+    },
+    "Michel Audiard": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "mouche"
+      ],
+      "P569": 1920
+    },
+    "Marcel Proust": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "mie|ma mie",
+        "amour"
+      ],
+      "P569": 1871
+    },
+    "Voltaire": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "bombe",
+        "abstinence"
+      ],
+      "P569": 1694
+    },
+    "Arthur Schopenhauer": {
+      "P27": "Q183",
+      "P21": "Q6581097",
+      "words": [
+        "enfantement"
+      ],
+      "P569": 1788
+    },
+    "Yanny Hureaux": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "maman"
+      ],
+      "P569": 1939
+    },
+    "Alexandre Dumas": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "nourrisson",
+        "amazone",
+        "jalousie"
+      ],
+      "P569": 1802
+    },
+    "Scarron": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "mie|ma mie"
+      ],
+      "P569": 1610
+    },
+    "Joseph Kessel": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "force"
+      ],
+      "P569": 1898
+    },
+    "Alain Corbin": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "moniale",
+        "amour"
+      ],
+      "P569": 1936
+    },
+    "Bernard le Bouyer de Fontenelle": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "bombe"
+      ],
+      "P569": 1657
+    },
+    "Auguste Kerckhoffs": {
+      "P27": "Q29999",
+      "P21": "Q6581097",
+      "words": [
+        "enfanter"
+      ],
+      "P569": 1835
+    },
+    "Richelet": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "mie|ma mie"
+      ],
+      "P569": 1626
+    },
+    "Edmond Nivoit": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "force"
+      ],
+      "P569": 1839
+    },
+    "Charles Baudelaire|Baudelaire": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "amour"
+      ],
+      "P569": 1821
+    },
+    "Roger Judrin": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "sainte"
+      ],
+      "P569": 1909
+    },
+    "Charles Cros": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "amour"
+      ],
+      "P569": 1842
+    },
+    "Guillaume Apollinaire": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "clitoris"
+      ],
+      "P569": 1880
+    },
+    "Georges Sorel": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "force",
+        "sein",
+        "mariage",
+        "violence",
+        "amour",
+        "jalousie"
+      ],
+      "P569": 1847
+    },
+    "George Sand": {
+      "P27": "Q142",
+      "P21": "Q6581072",
+      "words": [
+        "allumeuse"
+      ],
+      "P569": 1804
+    },
+    "Robert Charlebois": {
+      "P27": "Q16",
+      "P21": "Q6581097",
+      "words": [
+        "blonde"
+      ],
+      "P569": 1944
+    },
+    "Charles Le Goffic": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "capote"
+      ],
+      "P569": 1863
+    },
+    "Octave Mirbeau": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "force",
+        "enfant",
+        "amour",
+        "capote",
+        "bas",
+        "mouche"
+      ],
+      "P569": 1848
+    },
+    "Jean Monbourquette": {
+      "P27": "Q16",
+      "P21": "Q6581097",
+      "words": [
+        "violence"
+      ],
+      "P569": 1933
+    },
+    "Paul Nizan": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "violence"
+      ],
+      "P569": 1905
+    },
+    "Simone de Beauvoir": {
+      "P27": "Q142",
+      "P21": "Q6581072",
+      "words": [
+        "bikini"
+      ],
+      "P569": 1908
+    },
+    "Jacques Decour": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "cacopyge"
+      ],
+      "P569": 1910
+    },
+    "Alfred Kazin": {
+      "P27": "Q30",
+      "P21": "Q6581097",
+      "words": [
+        "rabbine"
+      ],
+      "P569": 1915
+    },
+    "Angelo Rinaldi": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "jupe"
+      ],
+      "P569": 1940
+    },
+    "Marquis de Sade": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "clitoris"
+      ],
+      "P569": 1740
+    },
+    "Denis de Rougemont": {
+      "P27": "Q39",
+      "P21": "Q6581097",
+      "words": [
+        "amour"
+      ],
+      "P569": 1906
+    },
+    "Jean Amila": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "cougar"
+      ],
+      "P569": 1910
+    },
+    "Pierre Clostermann": {
+      "P27": "Q155",
+      "P21": "Q6581097",
+      "words": [
+        "avion de chasse"
+      ],
+      "P569": 1921
+    },
+    "Jean de La Fontaine": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "force"
+      ],
+      "P569": 1621
+    },
+    "Adolf Hitler": {
+      "P27": "Q7318",
+      "P21": "Q6581097",
+      "words": [
+        "bourgmestre"
+      ],
+      "P569": 1889
+    },
+    "Maximilien de Robespierre": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "enfanter"
+      ],
+      "P569": 1758
+    },
+    "Stendhal": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "amour"
+      ],
+      "P569": 1783
+    },
+    "Armando Uribe": {
+      "P27": "Q298",
+      "P21": "Q6581097",
+      "words": [
+        "force",
+        "force"
+      ],
+      "P569": 1933
+    },
+    "Benjamin De Casseres": {
+      "P27": "Q30",
+      "P21": "Q6581097",
+      "words": [
+        "enfanter"
+      ],
+      "P569": 1873
+    },
+    "Stupeflip": {
+      "words": [
+        "soutif"
+      ]
+    },
+    "Balzac": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "ministre"
+      ],
+      "P569": 1799
+    },
+    "Jean Lorrain": {
+      "P27": "Q142",
+      "P21": "Q6581097",
+      "words": [
+        "gonzesse"
+      ],
+      "P569": 1855
+    },
     "Denis Diderot": {
-      "P27": "Q70972", 
-      "P21": "Q6581097", 
+      "P27": "Q70972",
+      "P21": "Q6581097",
+      "P569": 1713,
       "words": [
         "encyclop\u00e9die"
-      ], 
-      "P569": 1713
-    }, 
-    "Augustin Thierry": {
-      "P27": "Q142", 
-      "P21": "Q6581097", 
-      "P569": 1795, 
-      "words": [
-        "force"
-      ]
-    }, 
-    "Gustave Fraipont": {
-      "P27": "Q142", 
-      "P21": "Q6581097", 
-      "P569": 1849, 
-      "words": [
-        "force"
-      ]
-    }, 
-    "Jean de La Fontaine": {
-      "P27": "Q142", 
-      "P21": "Q6581097", 
-      "P569": 1621, 
-      "words": [
-        "force"
-      ]
-    }, 
-    "Joseph Kessel": {
-      "P27": "Q142", 
-      "P21": "Q6581097", 
-      "P569": 1898, 
-      "words": [
-        "force"
-      ]
-    }, 
-    "Georges Sorel": {
-      "P27": "Q142", 
-      "P21": "Q6581097", 
-      "P569": 1847, 
-      "words": [
-        "force"
-      ]
-    }, 
-    "Edmond Nivoit": {
-      "P27": "Q142", 
-      "P21": "Q6581097", 
-      "P569": 1839, 
-      "words": [
-        "force"
-      ]
-    }, 
-    "Octave Mirbeau": {
-      "P27": "Q142", 
-      "P21": "Q6581097", 
-      "P569": 1848, 
-      "words": [
-        "force"
-      ]
-    }, 
-    "Armando Uribe": {
-      "P27": "Q298", 
-      "P21": "Q6581097", 
-      "P569": 1933, 
-      "words": [
-        "force", 
-        "force"
-      ]
-    }, 
-    "Louis Pergaud": {
-      "P27": "Q142", 
-      "P21": "Q6581097", 
-      "P569": 1882, 
-      "words": [
-        "force"
       ]
     }
   }

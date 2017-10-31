@@ -1,0 +1,102 @@
+{
+  "words": {
+    "encyclop\u00e9die": [
+      "Denis Diderot"
+    ], 
+    "force": [
+      "Louis Pergaud", 
+      "Augustin Thierry", 
+      "Edmond Nivoit", 
+      "Armando Uribe", 
+      "Joseph Kessel", 
+      "Gustave Fraipont", 
+      "Armando Uribe", 
+      "Octave Mirbeau", 
+      "Georges Sorel", 
+      "Jean de La Fontaine"
+    ]
+  }, 
+  "authors": {
+    "Denis Diderot": {
+      "P27": "Q70972", 
+      "P21": "Q6581097", 
+      "words": [
+        "encyclop\u00e9die"
+      ], 
+      "P569": 1713
+    }, 
+    "Augustin Thierry": {
+      "P27": "Q142", 
+      "P21": "Q6581097", 
+      "P569": 1795, 
+      "words": [
+        "force"
+      ]
+    }, 
+    "Gustave Fraipont": {
+      "P27": "Q142", 
+      "P21": "Q6581097", 
+      "P569": 1849, 
+      "words": [
+        "force"
+      ]
+    }, 
+    "Jean de La Fontaine": {
+      "P27": "Q142", 
+      "P21": "Q6581097", 
+      "P569": 1621, 
+      "words": [
+        "force"
+      ]
+    }, 
+    "Joseph Kessel": {
+      "P27": "Q142", 
+      "P21": "Q6581097", 
+      "P569": 1898, 
+      "words": [
+        "force"
+      ]
+    }, 
+    "Georges Sorel": {
+      "P27": "Q142", 
+      "P21": "Q6581097", 
+      "P569": 1847, 
+      "words": [
+        "force"
+      ]
+    }, 
+    "Edmond Nivoit": {
+      "P27": "Q142", 
+      "P21": "Q6581097", 
+      "P569": 1839, 
+      "words": [
+        "force"
+      ]
+    }, 
+    "Octave Mirbeau": {
+      "P27": "Q142", 
+      "P21": "Q6581097", 
+      "P569": 1848, 
+      "words": [
+        "force"
+      ]
+    }, 
+    "Armando Uribe": {
+      "P27": "Q298", 
+      "P21": "Q6581097", 
+      "P569": 1933, 
+      "words": [
+        "force", 
+        "force"
+      ]
+    }, 
+    "Louis Pergaud": {
+      "P27": "Q142", 
+      "P21": "Q6581097", 
+      "P569": 1882, 
+      "words": [
+        "force"
+      ]
+    }
+  }
+}

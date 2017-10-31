@@ -10,39 +10,48 @@ WIKIDATA = pywikibot.Site('wikidata', 'wikidata')
 source = re.compile("{{source\|[\w|\{\{| |\}|é|.|&]+")
 wAuthor = re.compile("{{w\|[\w| ]+}}")
 gender = "P21"
-cache = {
-    "words":{},
-    "authors":{}
-    }
+nationality ="P27"
+birthDate = "P569"
+datas = [gender, nationality, birthDate]
+authors="authors"
+words="words"
+
+cache = json.loads(open("cache.json").read())
 
 def sources(word):
-    result={
-        'Authors'=[]
-    }
+    print word
+    cache["words"][word]=[]
     text = page.Page(WIKTIONNAIRE, word).text
     templates = source.findall(text)
     for template in templates:
         #Authors are linked to wikipedia
-        wikiAuthors = wAuthor.findall()
-        for wikiAuthor in wikiAuthors:
-            if wikiAuthor not in result["authors"]:
-                result["authors"].add(wikiAuthor)
-                genders = gender(wikiAuthor)
-                if wikiAuthor not in cache["authors"]:
-                    cache["authors"][wikiAuthor]=genders
-                else:
-                    cache["authors"][wikiAuthor] =
-    return {word:result}
+        wikiAuthors = wAuthor.findall(template)
+        for wikiA in wikiAuthors:
+            wikiAuthor = wikiA[4:len(wikiA)-2]
+            if wikiAuthor not in cache[authors]:
+                cache[authors][wikiAuthor] = characteristics(wikiAuthor)
+                cache[authors][wikiAuthor][words] = []
+            cache[words][word].append(wikiAuthor)
+            cache[authors][wikiAuthor][words].append(word)
+    with open("cache.json", "w") as file:
+        data = json.dumps(cache, indent=2)
+        file.write(data)
+    return cache
 
-def gender(author):
-    result = []
+def characteristics(author):
+    print "\t"+author
+    result={}
     wikiArticle = page.Page(WIKIPEDIA, author)
     if wikiArticle.exists():
         item = wikiArticle.data_item()
-        if gender in item.claims:
-            for claim in item.claims[gender]:
-                if claim.getTarget() is not None:
-                    result.add(claim.getTarget().id)
-    return {author:{genders:result}}
+        for data in datas:
+            if data in item.claims:
+                for claim in item.claims[data]:
+                    if claim.getTarget() is not None:
+                        if data is birthDate:
+                            result[data]=claim.getTarget().year
+                        else:
+                            result[data]=claim.getTarget().id
+    return result
 
-
+print sources(u"encyclopédie")

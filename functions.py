@@ -7,9 +7,10 @@ from pywikibot import page
 WIKTIONNAIRE = pywikibot.Site('fr', 'wiktionary')
 WIKIPEDIA = pywikibot.Site('fr','wikipedia')
 WIKIDATA = pywikibot.Site('wikidata', 'wikidata')
-source = re.compile("{{source\|[\w|\{\{| |\}|é|.|&]+")
-wAuthor = re.compile("{{w\|[\w| ]+}}")
-link = re.compile("\[\[[\w| ]+\]\]")
+source = re.compile("{{source\|.+}}")
+wAuthor = re.compile("{{w\|[^|}]+[|}]")
+nomWAuthor = re.compile("{{nom w pc\|([^|}]+)\|([^|}]+)[|}]")
+link = re.compile("\[\[[^|\]]+\]\]")
 gender = "P21"
 nationality ="P27"
 birthDate = "P569"
@@ -35,6 +36,7 @@ def sources(word):
         for template in templates:
             #Authors are linked to wikipedia
             wikiAuthors = [x[4:len(x)-2] for x in wAuthor.findall(template)]
+            wikiAuthors += [x[0]+x[1] for x in nomWAuthor.findall(template)]
             for wikiAuthor in wikiAuthors:
                 if wikiAuthor not in cache[authors]:
                     cache[authors][wikiAuthor] = characteristics(wikiAuthor)

@@ -36,7 +36,7 @@ def sources(word):
         for template in templates:
             #Authors are linked to wikipedia
             wikiAuthors = [x[4:len(x)-2] for x in wAuthor.findall(template)]
-            wikiAuthors += [x[0]+x[1] for x in nomWAuthor.findall(template)]
+            wikiAuthors += [x[0]+" "+x[1] for x in nomWAuthor.findall(template)]
             for wikiAuthor in wikiAuthors:
                 if wikiAuthor not in cache[authors]:
                     cache[authors][wikiAuthor] = characteristics(wikiAuthor)
